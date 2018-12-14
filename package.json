@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-font-sizes",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 font size classes generated for each breakpoint.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivandokov/bootstrap-font-sizes.git"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.1.3"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap 4",
+    "font-size",
+    "breakpoint",
+    "responsive",
+    "media",
+    "query"
+  ],
+  "author": "Ivan Dokov <ivangdokov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivandokov/bootstrap-font-sizes/issues"
+  },
+  "homepage": "https://github.com/ivandokov/bootstrap-font-sizes#readme"
+}
